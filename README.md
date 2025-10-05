@@ -10,7 +10,7 @@ A decentralized application that enables users to set up and manage **on-chain r
 
 This project is built on **Rootstock (RSK)** and includes smart contracts, a Next.js frontend, and an Envio indexer.
 
-You can try the deployed version of the dApp here: [Starter Kit Recurring Payments on Rootstock with Envio & Gelato](https://rootstock-envio-gelato-starter-kit.vercel.app/)
+You can try the deployed version of the dApp here: [Starter Kit Recurring Payments on Rootstock with Envio & Gelato](https://rsk-envio-gelato-starter-kit.vercel.app/)
 
 ---
 
@@ -178,7 +178,7 @@ You can deploy the indexer easily via [Envio](https://envio.dev/app/login).
 Docs: [Hosted Service Deployment](https://docs.envio.dev/docs/HyperIndex/hosted-service-deployment).
 Don't forget to set NEXT_PUBLIC_ENVIO_URL in /ui/.env with the correct indexer url provided by Envio
 
-Here is a deployed indexer for this project: [HyperIndex For Recurring Payments dApp](https://envio.dev/app/rspadinger/recurring-payments-rootstock)
+Here is a deployed indexer for this project: [HyperIndex For Recurring Payments dApp](https://envio.dev/app/rspadinger/rsk-envio-gelato-starterkit)
 
 ---
 
