@@ -1,0 +1,1 @@
+npx hardhat verify --network rskTestnet 0xdbD46acfEd6F37Fd67E498bcaBD834b576A45FbF "0xafd37d0558255aA687167560cd3AaeEa75c2841E"
