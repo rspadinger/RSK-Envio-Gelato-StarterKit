@@ -1,9 +1,9 @@
 # yaml-language-server: $schema=./node_modules/envio/evm.schema.json
 name: envio-indexer
 networks:
-    - id: 31 # RSK Testnet 
+    - id: 31 # RSK Testnet
       rpc_config:
-          url: https://rootstock-testnet.g.alchemy.com/v2/vEmzwZPd6Q_wj1U7Ah_eW # replace with your own RPC url
+          url: https://rootstock-testnet.g.alchemy.com/v2/vE... # replace with your own RPC url
       start_block: 6892000 # replace with your desired start block
       contracts:
           - name: RecurringPaymentFactory
